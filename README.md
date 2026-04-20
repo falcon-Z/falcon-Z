@@ -28,6 +28,10 @@ Full-stack developer who enjoys building for the web — from the database to th
 
 ---
 
+## Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=falcon-Z&theme=transparent&hide_border=true&count_private=true&layout=compact)
+
 ---
 
 *Building things I believe in. Publishing work that earns its place.*
