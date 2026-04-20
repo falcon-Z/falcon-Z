@@ -28,14 +28,6 @@ Full-stack developer who enjoys building for the web — from the database to th
 
 ---
 
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=falcon-Z&theme=transparent&hide_border=true&count_private=true&hide_rank=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=falcon-Z&theme=transparent&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=falcon-Z&theme=transparent&hide_border=true&count_private=true&layout=compact)
-
 ---
 
 *Building things I believe in. Publishing work that earns its place.*
